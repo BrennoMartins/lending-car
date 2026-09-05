@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Car icon">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#0f172a"/>
+  <path d="M14 39h36l-4-12a4 4 0 0 0-3.8-2.9H21.8A4 4 0 0 0 18 27l-4 12Zm7 0a4 4 0 1 1-8 0 4 4 0 0 1 8 0Zm30 0a4 4 0 1 1-8 0 4 4 0 0 1 8 0ZM22 24h20l2.8 9H19.2l2.8-9Z" fill="url(#bg)"/>
+  <circle cx="18" cy="39" r="4" fill="#e2e8f0"/>
+  <circle cx="46" cy="39" r="4" fill="#e2e8f0"/>
+  <path d="M20 20h24l3 7H17l3-7Z" fill="#dbeafe" opacity="0.9"/>
+</svg>
