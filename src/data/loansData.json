@@ -1,0 +1,52 @@
+{
+  "loans": [
+    {
+      "id": "emprestimo-1",
+      "name": "Empréstimo 1",
+      "description": "Sistema de pagamentos do financiamento do carro",
+      "totalValue": 14832,
+      "paidValue": 1236,
+      "remainingValue": 13596,
+      "installmentValue": 618,
+      "payments": [
+        { "parcel": 1, "paymentDate": "08/04/26", "dueDate": "08/01/26", "installmentValue": 618, "paidAmount": 618, "status": "pago" },
+        { "parcel": 2, "paymentDate": "09/03/26", "dueDate": "09/01/26", "installmentValue": 618, "paidAmount": 618, "status": "pago" },
+        { "parcel": 3, "paymentDate": "", "dueDate": "10/01/26", "installmentValue": 618, "paidAmount": 0, "status": "pendente" },
+        { "parcel": 4, "paymentDate": "", "dueDate": "11/01/26", "installmentValue": 618, "paidAmount": 0, "status": "pendente" },
+        { "parcel": 5, "paymentDate": "", "dueDate": "12/01/26", "installmentValue": 618, "paidAmount": 0, "status": "pendente" },
+        { "parcel": 6, "paymentDate": "", "dueDate": "01/01/27", "installmentValue": 618, "paidAmount": 0, "status": "pendente" },
+        { "parcel": 7, "paymentDate": "", "dueDate": "02/01/27", "installmentValue": 618, "paidAmount": 0, "status": "pendente" },
+        { "parcel": 8, "paymentDate": "", "dueDate": "03/01/27", "installmentValue": 618, "paidAmount": 0, "status": "pendente" },
+        { "parcel": 9, "paymentDate": "", "dueDate": "04/01/27", "installmentValue": 618, "paidAmount": 0, "status": "pendente" },
+        { "parcel": 10, "paymentDate": "", "dueDate": "05/01/27", "installmentValue": 618, "paidAmount": 0, "status": "pendente" },
+        { "parcel": 11, "paymentDate": "", "dueDate": "06/01/27", "installmentValue": 618, "paidAmount": 0, "status": "pendente" },
+        { "parcel": 12, "paymentDate": "", "dueDate": "07/01/27", "installmentValue": 618, "paidAmount": 0, "status": "pendente" },
+        { "parcel": 13, "paymentDate": "", "dueDate": "08/01/27", "installmentValue": 618, "paidAmount": 0, "status": "pendente" },
+        { "parcel": 14, "paymentDate": "", "dueDate": "09/01/27", "installmentValue": 618, "paidAmount": 0, "status": "pendente" },
+        { "parcel": 15, "paymentDate": "", "dueDate": "10/01/27", "installmentValue": 618, "paidAmount": 0, "status": "pendente" },
+        { "parcel": 16, "paymentDate": "", "dueDate": "11/01/27", "installmentValue": 618, "paidAmount": 0, "status": "pendente" },
+        { "parcel": 17, "paymentDate": "", "dueDate": "12/01/27", "installmentValue": 618, "paidAmount": 0, "status": "pendente" },
+        { "parcel": 18, "paymentDate": "", "dueDate": "01/01/28", "installmentValue": 618, "paidAmount": 0, "status": "pendente" },
+        { "parcel": 19, "paymentDate": "", "dueDate": "02/01/28", "installmentValue": 618, "paidAmount": 0, "status": "pendente" },
+        { "parcel": 20, "paymentDate": "", "dueDate": "03/01/28", "installmentValue": 618, "paidAmount": 0, "status": "pendente" },
+        { "parcel": 21, "paymentDate": "", "dueDate": "04/01/28", "installmentValue": 618, "paidAmount": 0, "status": "pendente" },
+        { "parcel": 22, "paymentDate": "", "dueDate": "05/01/28", "installmentValue": 618, "paidAmount": 0, "status": "pendente" },
+        { "parcel": 23, "paymentDate": "", "dueDate": "06/01/28", "installmentValue": 618, "paidAmount": 0, "status": "pendente" },
+        { "parcel": 24, "paymentDate": "", "dueDate": "07/01/28", "installmentValue": 618, "paidAmount": 0, "status": "pendente" }
+      ]
+    },
+    {
+      "id": "emprestimo-2",
+      "name": "Empréstimo 2",
+      "description": "Financiamento adicional sem data fixa de vencimento",
+      "totalValue": 20000,
+      "paidValue": 2000,
+      "remainingValue": 18000,
+      "installmentValue": null,
+      "payments": [
+        { "parcel": 1, "paymentDate": "08/04/26", "dueDate": "", "installmentValue": null, "paidAmount": 1000, "status": "pago" },
+        { "parcel": 2, "paymentDate": "09/03/26", "dueDate": "", "installmentValue": null, "paidAmount": 1000, "status": "pago" }
+      ]
+    }
+  ]
+}
